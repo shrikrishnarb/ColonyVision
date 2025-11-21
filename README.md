@@ -112,5 +112,6 @@ Bezier curves are smooth paths defined by control points. They are widely used i
 *Figure: Green dots = planned path, red = start, yellow = target.*
 
 **Density along path:**  
-![Density Plot](results/ctrl_256_metrices.png)  
+![Density Plot](results/ctrl_256_metrics.png)  
+
 *Figure: Density sampled along the trajectory compared to target threshold.*
